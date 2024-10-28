@@ -2,7 +2,7 @@
 
 # Sistema de controle de Garantias
 
-Desafio proposto para o projeto integrador do curso FAP, da softex, um programa que armazene as informações de garantia de um produto específico, a nota fiscal e notifique o usuário quando a garantia expira. 
+Desafio proposto para o projeto integrador do curso FAP, da softex, um programa que armazena as informações de garantia de um produto específico, a nota fiscal e notifique o usuário antes que a garantia expire. 
 
 É uma aplicação que o próprio usuário fornece os dados necessários para popular o banco de dados, que estamos utilizando o postgreSQL.
 
